@@ -1,5 +1,7 @@
 # MK-2-Arkade-Edition
 
+The following changes have been made:
+
 – Tweaks to each fighter’s design
 
 – New fighter selection screen

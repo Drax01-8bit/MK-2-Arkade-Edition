@@ -1,15 +1,25 @@
 # MK-2-Arkade-Edition
 
 – Tweaks to each fighter’s design
+
 – New fighter selection screen
+
 – New screen designs
+
 – Adjustments to the color scheme of some stages
+
 – New “Battle Plan” implemented
+
 – New continues screen
+
 – Missing stages added (Dead Pool, The Armory, and Wateland)
+
 – Endings for each character
+
 – New music, digital voices, and special effects
+
 – New Kintaro size
+
 – and more.
 
 Apply to the rom:

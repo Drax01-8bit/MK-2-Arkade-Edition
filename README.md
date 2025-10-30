@@ -1,5 +1,29 @@
 # MK-2-Arkade-Edition
 
+Update 30/10/2025:
+
+- Gameplay adjustments.
+
+- Scorpion now has Spear and Teleport.
+
+- Fixed some special attacks that wouldn't hit when close to the opponent.
+
+- Fixed the glitch that occurred in the third round against Shao Kahn.
+
+- The Select button now blocks.
+
+- Improvements to some special attacks, effects, and sounds.
+
+- The Pit stage was added.
+
+- Shang Tsung's transformation is now temporary.
+
+- Changes to some stages.
+
+- Changes to the special attacks of secret characters.
+
+====
+
 The following changes have been made:
 
 – Tweaks to each fighter’s design
